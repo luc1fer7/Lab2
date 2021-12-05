@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='XSL.xsl'?>
+<DataBase>
+	<CONFERENCE ConfName="History of Kievan Rus">
+		<PLACE Place="Historical faculty">
+			<INFO
+					 Theme="History of Kievan Rus"
+					 Person ="Koval Anton Vasyliovych"
+					 Date="03.05.2020"
+					 Period="25.04.2020-02.05.2020"
+					 Cost="300 UAH">
+			</INFO>
+		</PLACE>
+	</CONFERENCE>
+	<CONFERENCE ConfName="MathAnalysis">
+		<PLACE Place="Kubik">
+			<INFO
+					 Theme="derivative of the first order"
+					 Person="Oleksandr Molodtsov"
+					 Date="08.10.2021"
+					 Period="01.10.2021-08.10.2021"
+					 Cost="Free">
+			</INFO>
+		</PLACE>
+	</CONFERENCE>
+	<CONFERENCE ConfName="MathAnalysis">
+		<PLACE Place="Kubik">
+			<INFO
+					 Theme="differential equations"
+					 Person="Oleksandr Molodtsov"
+					 Date="05.09.2021"
+					 Period="01.09.2021-05.09.2021"
+					 Cost="Free">
+			</INFO>
+		</PLACE>
+	</CONFERENCE>
+	<CONFERENCE ConfName="Biology">
+		<PLACE Place="School of Moryntsi">
+			<INFO
+					 Theme="metabolism"
+					 Person="Popaduk Bogdan Ruslanovich"
+					 Date="04.02.2018"
+					 Period="01.01.2018-04.02.2018"
+					 Cost="1 UAH">
+			</INFO>
+		</PLACE>
+	</CONFERENCE>
+</DataBase>

@@ -1,0 +1,20 @@
+D:\Vs_project\XML_1.0\XML\bin\Debug\XML.exe.config
+D:\Vs_project\XML_1.0\XML\bin\Debug\XML.exe
+D:\Vs_project\XML_1.0\XML\bin\Debug\XML.pdb
+D:\Vs_project\XML_1.0\XML\obj\Debug\Conference.csproj.AssemblyReference.cache
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.Conferences.resources
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.Properties.Resources.resources
+D:\Vs_project\XML_1.0\XML\obj\Debug\Conference.csproj.GenerateResource.cache
+D:\Vs_project\XML_1.0\XML\obj\Debug\Conference.csproj.CoreCompileInputs.cache
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.exe
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.pdb
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\bin\Debug\XML.exe.config
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\bin\Debug\XML.exe
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\bin\Debug\XML.pdb
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\obj\Debug\Conference.csproj.AssemblyReference.cache
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\obj\Debug\XML.Conferences.resources
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\obj\Debug\Conference.csproj.GenerateResource.cache
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\obj\Debug\Conference.csproj.CoreCompileInputs.cache
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\obj\Debug\XML.exe
+C:\Users\Luc1fer\Desktop\ООП лаб№2\XML_1.0\XML\obj\Debug\XML.pdb

@@ -1,0 +1,9 @@
+D:\Vs_project\XML_1.0\XML\bin\Debug\XML.exe.config
+D:\Vs_project\XML_1.0\XML\bin\Debug\XML.exe
+D:\Vs_project\XML_1.0\XML\bin\Debug\XML.pdb
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.Curriculum.resources
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.Properties.Resources.resources
+D:\Vs_project\XML_1.0\XML\obj\Debug\Form.csproj.GenerateResource.cache
+D:\Vs_project\XML_1.0\XML\obj\Debug\Form.csproj.CoreCompileInputs.cache
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.exe
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.pdb

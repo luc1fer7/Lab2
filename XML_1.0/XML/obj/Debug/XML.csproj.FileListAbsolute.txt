@@ -1,0 +1,5 @@
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.Curriculum.resources
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.Properties.Resources.resources
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.csproj.GenerateResource.cache
+D:\Vs_project\XML_1.0\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
